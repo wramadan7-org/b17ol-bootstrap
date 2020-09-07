@@ -1,0 +1,661 @@
+.logo {
+	margin-bottom: 40px;
+}
+
+.message {
+	margin-bottom: 50px;
+}
+
+.switch {
+	margin-bottom: 40px;
+}
+
+.forgot {
+	margin-bottom: 40px;
+}
+
+.login {
+	margin-bottom: 40px;
+}
+
+.pass {
+	margin-bottom: 26px;
+}
+
+.auth-input {
+	width: 400px;
+	height: 48
+}
+
+.switch .btn {
+	width: 123px;
+	height: 48px;
+}
+
+.form {
+	margin-bottom: 40px;
+}
+
+.form .pass {
+	margin-bottom: 50px;
+}
+
+.navbar-brand .nav-logo {
+	margin-left: 156px;
+	width: 119px;
+	height: 44px;
+}
+
+.navbar .nav-search {
+	width: 507px;
+	position: relative;
+	/*margin-left: 60px;*/
+}
+
+.navbar .nav-search img {
+	position: absolute;
+	transform: translateY(-50%);
+	right: 20px;
+	top: 50%;
+}
+
+.navbar .filter {
+	width: 40px;
+	height: 40px;
+	border-radius: 8px;
+	border: 1px solid black;
+	background-color: transparent;
+	margin-right: 120px;
+}
+
+.navbar .konten .btn {
+	width: 100px;
+	height: 36;
+}
+
+.category {
+	height: 34px;
+	font-size: 34px;
+	line-height: 34px;
+	color: black;
+	font-weight: bold;
+	width: 156px;
+}
+
+.lookingfor {
+	color: gray;
+	width: 199px;
+	height: 12px;
+	font-size: 12px;
+	line-height: 12px;
+	margin-bottom: 30px;
+}
+
+.list-cat .kaos{
+	background-color: #CC0B04;
+	width: 205px;
+	height: 220px;
+	border-radius: 8px;
+}
+
+.list-cat .kaos img {
+	margin: 37px 45px;
+	width: 116px;
+	height: 146px;
+}
+
+.list-cat .color{
+	background-color: #1C3391;
+	width: 205px;
+	height: 220px;
+	border-radius: 8px;
+}
+
+.list-cat .color img {
+	margin: 37px 24px;
+	width: 158px;
+	height: 146px;
+}
+
+.list-cat .jaket{
+	background-color: #F67B02;
+	width: 205px;
+	height: 220px;
+	border-radius: 8px;
+}
+
+.list-cat .jaket img {
+	margin-top: 37px;
+	margin-bottom: 52px;
+	margin-left: 38px;
+	margin-right: 37px;
+	width: 131px;
+	height: 131px;
+}
+
+.list-cat .celana{
+	background-color: #E31F51;
+	width: 205px;
+	height: 220px;
+	border-radius: 8px;
+}
+
+.list-cat .celana img {
+	margin-left: 65px;
+	margin-right: 65px;
+	margin-top: 37px;
+	margin-bottom: 52px
+	width: 76px;
+	height: 131px;
+}
+
+.list-cat .sepatu{
+	background-color: #57CD9E;
+	width: 205px;
+	height: 220px;
+	border-radius: 8px;
+}
+
+.list-cat .sepatu img {
+	margin-top: 54px;
+	margin-bottom: 57px;
+	margin-left: 18px;
+	margin-right: 19px;
+	width: 169px;
+	height: 109px;
+}
+
+.list-cat .item .txt {
+	transform: translate(-50%, -50%);
+	top: 50%;
+	left: 50%;
+	/*error*/
+}
+
+.new {
+	margin-top: 50px;
+	width: 75px;
+	height: 34px;
+	font-size: 34px;
+	line-height: 34px;
+}
+
+.never {
+	margin-top: 4px;
+	width: 161px;
+	height: 12px;
+	color: gray;
+	font-size: 12px;
+	line-height: 12px;
+}
+
+.new-list {
+	
+}
+
+.per-list {
+	width: 208px;
+	height: 310px;
+	margin: 25px 25px;
+}
+
+.per-list img {
+	width: 208px;
+	height: 136px;
+}
+
+.per-list .text {
+	margin-left: 12px;
+	margin-right: 12px;
+	margin-top: 10px;
+}
+
+.per-list .harga {
+	color: red;
+	width: 52px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+}
+
+.per-list .zalora {
+	color: gray;
+	width: 71px;
+	height: 12px;
+	font-size: 12px;
+	line-height: 12px;
+}
+
+.per-list .bintang-list {
+	margin-bottom: 21px;
+}
+
+.per-list .bintang-list img{
+	width: 13px;
+	height: 12px;
+}
+
+.per-list .sepuluh {
+	width: 18px;
+	height: 8px;
+	font-size: 10px;
+	line-height: 8px;
+	color: gray;
+}
+
+/*.cart {
+	margin-right: 0px;
+	margin-left: 150px;
+}*/
+
+.cart .list-cart {
+	width: 720px;
+	height: auto;
+}
+
+.cart .list-cart .mybag {
+	width: 124px;
+	height: 34px;
+	font-size: 34px;
+	line-height: 34px;
+}
+
+.cart .list-cart .selec-item {
+	width: 720px;
+	height: 64px;
+}
+
+.cart .list-cart .selec-item .announce {
+	width: 256px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+	margin-left: 23px;
+	margin-right: 237px;
+}
+
+.cart .list-cart .selec-item .announce .itemselected {
+	color: gray;
+}
+
+.cart .list-cart .selec-item .delete {
+	width: 51px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+	margin-right: 22px;
+}
+
+.cart .list-cart .checkbox {
+	width: 20px;
+	height: 20px;
+	margin-left: 20px;
+}
+
+.cart .list-cart .pic {
+	width: 103px;
+	height: 69px;
+	margin-left: 12px;
+	margin-top: 32px;
+	margin-bottom: 25px;
+}
+
+.cart .list-cart .pic img {
+	width: 95px;
+	height: 69px;
+}
+
+.cart .list-cart .txt {
+	margin-left: 14px;
+}
+
+.cart .list-cart .txt .mens {
+	width: 255px;
+	height: 24px;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.cart .list-cart .txt .zalora {
+	width: 71px;
+	height: 12px;
+	color: gray;
+	font-size: 12px;
+	line-height: 12px;
+}
+
+.cart .list-cart .grup-btn {
+	margin-left: 35px;
+}
+
+.cart .list-cart .grup-btn button{
+	width: 36px;
+	height: 36px;
+}
+
+.cart .list-cart .grup-btn .jumlah-barang {
+	width: 6px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+	margin: 0 17px;
+}
+
+.cart .list-cart .harga {
+	margin-left: 70px;
+	margin-top: 55px;
+	margin-bottom: 55px;
+	width: 52px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+}
+
+.cart .kanan {
+	margin-left: 50px;
+	width: 	330px;
+	height: 180px;
+	margin-bottom: auto;
+	/*transform: translateY(2%);*/
+}
+
+.cart .shopping {
+	font-size: 16px;
+	line-height: 16px;
+	width: 152px;
+	height: 16px;
+}
+
+.cart .kanan .prize .total {
+	color: gray;
+	width: 82px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+	margin-top: 30px;
+	/*margin-right: 180px;*/
+}
+
+.cart .kanan .prize .total-harga {
+	width: 59px;
+	height: 18px;
+	font-size: 18px;
+	line-height: 18px;
+}
+
+.cart .kanan button {
+	width: 322px;
+	height: 36px;
+}
+
+.navbar .konten .cart {
+	margin-right: 44px;
+}
+
+.navbar .konten .bell {
+	margin-right: 45px;
+}
+
+.navbar .konten .mail {
+	margin-right: 27px;
+}
+
+/*checkout*/
+
+.cek .checkout {
+	width: 159px;
+	height: 34px;
+	font-size: 34px;
+	line-height: 34px;
+}
+
+.cek .shipping {
+	width: 128px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+}
+
+.cek .list-cek {
+	width: 720px;
+	height: auto;
+}
+
+.cek .list-cek .alamat {
+	width: 720px;
+	height: 190px;
+}
+
+.cek .list-cek .txt {
+	margin-left: 30px;
+}
+
+.cek .list-cek .txt .nama {
+	width: 108px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+}
+
+.cek .list-cek .txt .detail {
+	width: 655px;
+	height: 48px;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.cek .list-cek .txt .alamat-lain {
+	width: 210px;
+	height: 36px;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.cek .list-cek .txt .alamat-lain::placeholder {
+	width: 166px;
+	height: 20px;
+	align-items: center;
+	text-align: center;
+}
+
+.cek .list-cek .pic{
+	width: 103px;
+	height: 69px;
+	margin-left: 14px;
+	margin-top: 32px;
+	margin-bottom: 25px;
+}
+
+.cek .list-cek .pic img {
+	width: 90px;
+	height: 69px;
+	margin-left: 16px;
+	margin-right: 17px;
+}
+
+.cek .list-cek .txt {
+	width: 255px;
+	height: auto;
+}
+
+.cek .list-cek .txt .mens {
+	width: 255px;
+	height: 24px;
+	font-size: 15px;
+	line-height: 24px;
+	margin-bottom: 4px;
+}
+
+.cek .list-cek .zalora {
+	width: 71px;
+	height: 12px;
+	font-size: 12px;
+	line-height: 12px;
+	color: gray;
+
+}
+
+.cek .list-cek .harga {
+	margin-left: 237px;
+	width: 52px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+}
+
+.cek .kanan {
+	margin-left: 50px;
+	width: 	330px;
+	height: 300px;
+	/*transform: translateY(2%);*/
+}
+
+.cek .cover {
+	margin: 24px 5px;
+}
+
+.cek .kanan .shopping {
+	width: 152px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+}
+
+.cek .kanan .pesanan {
+	margin-top: 30px;
+	margin-bottom: 14px;
+}
+
+.cek .kanan .pesanan .order {
+	width: 46px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+	color: gray;
+	/*margin-right: 180px;*/
+}
+
+.cek .kanan .ongkir {
+	margin-bottom: 20px;
+}
+
+.cek .kanan .ongkir .deliver {
+	width: 64px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+	color: gray;
+	/*margin-right: 180px;*/
+}
+
+.cek .cover .border {
+	margin: 0 24px;
+}
+
+.cek .cover .total-sumary {
+	margin-top: 20px;
+}
+
+.cek .cover .total-sumary .total {
+	color: red;
+}
+
+.cek .kanan .cover button {
+	width: 322px;
+	height: 36px;
+}
+
+/*prfil*/
+
+/*.ful {
+	height: 100%;
+}*/
+
+.kiri {
+	margin-left: 122px;
+}
+
+.profil-atas .pp {
+	width: 90px;
+	height: 60px;
+}
+
+.profil-atas .pp img {
+	width: 60px;
+	height: 60px;
+}
+
+.profil-atas .nama-profil {
+	width: 120px;
+}
+
+.profil-atas .nama-profil .nama {
+	width: 120px;
+	height: 24px;
+}
+
+.profil-atas .nama-profil .gpen {
+	width: 13px;
+	height: 13px;
+}
+
+.profil-atas .nama-profil .ubah {
+	width: 84px;
+	height: 24px;
+	color: gray;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.menu-bawah {
+	margin-top: 69px;
+}
+
+.menu-bawah button {
+	width: 32px;
+	height: 32px;
+	margin-right: 14px;
+	border:0;
+}
+
+.menu-bawah .user {
+	background-color: blue;
+}
+
+.menu-bawah .map {
+	background-color: orange;
+}
+
+.menu-bawah .order {
+	background-color: pink;
+}
+
+.kanan {
+	margin-top: 50px;
+	/*width: 550px;*/
+	height: 638px;
+}
+
+.kanan .konten {
+	margin: 0 20px;
+	width: 800px;
+}
+
+.border-kanan {
+	/*width: 1000px;*/
+}
+
+.kanan .konten .save {
+	width: 100px;
+	height: 36px;
+	margin-left: 138px
+}
+
+
+.kanan .kanan-pol {
+	margin: 10px;
+}
+
+.kanan .ss {
+	width: 900px;
+}
